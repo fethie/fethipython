@@ -1,1 +1,3 @@
 # fethipython
+## Açıklama
+Bu yazıyı okumadan indirme...
